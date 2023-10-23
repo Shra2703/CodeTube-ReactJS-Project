@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeTube-ReactJS-Project/static/css/main.e20979b2.css",
+    "main.js": "/CodeTube-ReactJS-Project/static/js/main.16357567.js",
+    "index.html": "/CodeTube-ReactJS-Project/index.html",
+    "main.e20979b2.css.map": "/CodeTube-ReactJS-Project/static/css/main.e20979b2.css.map",
+    "main.16357567.js.map": "/CodeTube-ReactJS-Project/static/js/main.16357567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20979b2.css",
+    "static/js/main.16357567.js"
+  ]
+}
